@@ -1,0 +1,79 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "title": "React Hooks: Guide complet et bonnes pratiques",
+      "description": "Un guide exhaustif sur l'utilisation des Hooks React, incluant useState, useEffect, useContext et les hooks personnalisés.",
+      "type": "article",
+      "category": "Frontend",
+      "url": "https://example.com/react-hooks",
+      "language": "fr",
+      "tags": [
+        "react",
+        "hooks",
+        "frontend",
+        "javascript"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Python pour la Data Science et l'Analyse",
+      "description": "Maîtrisez Pandas, NumPy, Matplotlib et Scikit-learn pour l'analyse de données et la visualisation.",
+      "type": "tutorial",
+      "category": "Data Science",
+      "url": "https://example.com/python-data-science",
+      "language": "fr",
+      "tags": [
+        "python",
+        "data science",
+        "pandas",
+        "numpy"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Docker et Kubernetes pour débutants",
+      "description": "Apprenez la containerisation et l'orchestration d'applications avec des exemples concrets.",
+      "type": "video",
+      "category": "DevOps",
+      "url": "https://example.com/docker-kubernetes",
+      "language": "fr",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "devops",
+        "containers"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning Fundamentals",
+      "description": "Learn the basics of machine learning algorithms and their practical applications.",
+      "type": "course",
+      "category": "AI/ML",
+      "url": "https://example.com/ml-fundamentals",
+      "language": "en",
+      "tags": [
+        "machine learning",
+        "ai",
+        "algorithms",
+        "python"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Sécurité Informatique et Cybersécurité",
+      "description": "Protégez vos applications et infrastructures contre les cybermenaces.",
+      "type": "article",
+      "category": "Sécurité",
+      "url": "https://example.com/cybersecurity",
+      "language": "fr",
+      "tags": [
+        "sécurité",
+        "cybersécurité",
+        "protection",
+        "hacking"
+      ]
+    }
+  ]
+}
